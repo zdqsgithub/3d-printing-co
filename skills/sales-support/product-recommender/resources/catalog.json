@@ -1,0 +1,342 @@
+[
+    {
+        "id": "PRN-001",
+        "name": "Creality Ender-3 V3 SE",
+        "category": "printers",
+        "subcategory": "FDM",
+        "price": 249.00,
+        "description": "Entry-level FDM printer with auto-leveling. Great for beginners and education.",
+        "tags": [
+            "beginner",
+            "auto-level",
+            "FDM",
+            "PLA",
+            "PETG",
+            "education"
+        ],
+        "experience_levels": [
+            "beginner",
+            "intermediate"
+        ],
+        "build_volume": "220x220x250mm",
+        "in_stock": true
+    },
+    {
+        "id": "PRN-002",
+        "name": "Bambu Lab P1S",
+        "category": "printers",
+        "subcategory": "FDM",
+        "price": 699.00,
+        "description": "High-speed enclosed FDM printer with multi-color capability. Best mid-range option.",
+        "tags": [
+            "prosumer",
+            "enclosed",
+            "fast",
+            "multi-color",
+            "ABS",
+            "Nylon",
+            "FDM"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "build_volume": "256x256x256mm",
+        "in_stock": true
+    },
+    {
+        "id": "PRN-003",
+        "name": "Prusa MK4S",
+        "category": "printers",
+        "subcategory": "FDM",
+        "price": 799.00,
+        "description": "Reliable open-source FDM printer with excellent community support and input shaping.",
+        "tags": [
+            "prosumer",
+            "open-source",
+            "reliable",
+            "FDM",
+            "all-materials"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "build_volume": "250x210x220mm",
+        "in_stock": true
+    },
+    {
+        "id": "PRN-004",
+        "name": "Elegoo Saturn 4 Ultra",
+        "category": "printers",
+        "subcategory": "Resin",
+        "price": 499.00,
+        "description": "Large-format resin printer with 12K resolution. Perfect for miniatures and jewelry.",
+        "tags": [
+            "resin",
+            "high-detail",
+            "miniatures",
+            "jewelry",
+            "dental"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "build_volume": "218x123x260mm",
+        "in_stock": true
+    },
+    {
+        "id": "PRN-005",
+        "name": "Creality K1 Max",
+        "category": "printers",
+        "subcategory": "FDM",
+        "price": 899.00,
+        "description": "Large-format high-speed FDM printer with AI camera monitoring and 300x300x300mm build.",
+        "tags": [
+            "large-format",
+            "fast",
+            "business",
+            "FDM",
+            "enclosed"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "build_volume": "300x300x300mm",
+        "in_stock": true
+    },
+    {
+        "id": "PRN-006",
+        "name": "Anycubic Kobra 3 Combo",
+        "category": "printers",
+        "subcategory": "FDM",
+        "price": 549.00,
+        "description": "Multi-color FDM printer with automatic color changer. Great for colorful prints.",
+        "tags": [
+            "multi-color",
+            "beginner-friendly",
+            "FDM",
+            "PLA"
+        ],
+        "experience_levels": [
+            "beginner",
+            "intermediate"
+        ],
+        "build_volume": "250x250x260mm",
+        "in_stock": false
+    },
+    {
+        "id": "FIL-001",
+        "name": "PLA Starter Kit (10-Color Pack)",
+        "category": "filament",
+        "subcategory": "PLA",
+        "price": 35.00,
+        "description": "10 spools of vibrant PLA filament (200g each). Safe, easy to print, no heated enclosure needed.",
+        "tags": [
+            "PLA",
+            "beginner",
+            "starter",
+            "multi-color",
+            "education"
+        ],
+        "experience_levels": [
+            "beginner",
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "FIL-002",
+        "name": "PETG Professional Spool (1kg)",
+        "category": "filament",
+        "subcategory": "PETG",
+        "price": 22.00,
+        "description": "Industrial-grade PETG filament. Strong, heat-resistant, and food-safe.",
+        "tags": [
+            "PETG",
+            "professional",
+            "strong",
+            "food-safe"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "FIL-003",
+        "name": "ABS Engineering Spool (1kg)",
+        "category": "filament",
+        "subcategory": "ABS",
+        "price": 24.00,
+        "description": "High-strength ABS for functional parts. Requires enclosed printer.",
+        "tags": [
+            "ABS",
+            "engineering",
+            "functional",
+            "enclosed-required"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "FIL-004",
+        "name": "TPU Flex Spool (1kg)",
+        "category": "filament",
+        "subcategory": "TPU",
+        "price": 28.00,
+        "description": "Flexible TPU filament for phone cases, gaskets, and wearables.",
+        "tags": [
+            "TPU",
+            "flexible",
+            "wearables"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "FIL-005",
+        "name": "Nylon PA12 Spool (750g)",
+        "category": "filament",
+        "subcategory": "Nylon",
+        "price": 45.00,
+        "description": "Engineering-grade nylon for high-strength, wear-resistant parts.",
+        "tags": [
+            "Nylon",
+            "engineering",
+            "high-strength",
+            "wear-resistant"
+        ],
+        "experience_levels": [
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "RES-001",
+        "name": "Standard Resin (1L) - Grey",
+        "category": "resin",
+        "subcategory": "standard",
+        "price": 25.00,
+        "description": "General-purpose UV resin for detailed prints. Low odor formula.",
+        "tags": [
+            "resin",
+            "standard",
+            "low-odor",
+            "detail"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "RES-002",
+        "name": "ABS-Like Tough Resin (1L)",
+        "category": "resin",
+        "subcategory": "tough",
+        "price": 35.00,
+        "description": "Tough resin with ABS-like properties. Great for functional prototypes.",
+        "tags": [
+            "resin",
+            "tough",
+            "functional",
+            "ABS-like"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "ACC-001",
+        "name": "Print Bed Adhesion Kit",
+        "category": "accessories",
+        "subcategory": "bed-adhesion",
+        "price": 15.00,
+        "description": "Includes PEI sheet, glue stick, and hairspray for perfect first layers.",
+        "tags": [
+            "adhesion",
+            "bed",
+            "accessory",
+            "beginner"
+        ],
+        "experience_levels": [
+            "beginner",
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "ACC-002",
+        "name": "Nozzle Variety Pack (0.2–0.8mm)",
+        "category": "accessories",
+        "subcategory": "nozzles",
+        "price": 18.00,
+        "description": "Set of 10 hardened steel nozzles for all print resolutions and materials.",
+        "tags": [
+            "nozzle",
+            "accessory",
+            "maintenance"
+        ],
+        "experience_levels": [
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "SVC-001",
+        "name": "DIY Printing Service — Per Hour",
+        "category": "services",
+        "subcategory": "printing",
+        "price": 15.00,
+        "description": "Our in-house factory prints your STL files. 100 printers, fast turnaround in the LA area.",
+        "tags": [
+            "service",
+            "DIY",
+            "printing",
+            "LA",
+            "factory"
+        ],
+        "experience_levels": [
+            "beginner",
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    },
+    {
+        "id": "SVC-002",
+        "name": "Design Consultation (1 hour)",
+        "category": "services",
+        "subcategory": "consultation",
+        "price": 75.00,
+        "description": "One-on-one session with our 3D printing expert to plan your project.",
+        "tags": [
+            "service",
+            "consultation",
+            "design",
+            "expert"
+        ],
+        "experience_levels": [
+            "beginner",
+            "intermediate",
+            "advanced"
+        ],
+        "in_stock": true
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "id": "FAQ-001",
+        "category": "materials",
+        "question": "What's the difference between PLA and ABS?",
+        "answer": "PLA is easier to print, biodegradable, and great for beginners. ABS is stronger, heat-resistant, but requires an enclosed printer and produces fumes. For most projects, we recommend starting with PLA and moving to ABS only when you need the extra strength/heat resistance.",
+        "tags": [
+            "PLA",
+            "ABS",
+            "comparison",
+            "beginner"
+        ]
+    },
+    {
+        "id": "FAQ-002",
+        "category": "materials",
+        "question": "Which filament is food-safe?",
+        "answer": "PETG is the most food-safe FDM filament we carry. However, keep in mind that 3D printed objects have tiny layer lines that can harbor bacteria. For food contact, we recommend: (1) Use PETG, (2) Apply a food-safe epoxy coating, (3) Don't use for hot foods. For full food-safety, consider our resin printing service with food-grade resin.",
+        "tags": [
+            "PETG",
+            "food-safe",
+            "safety"
+        ]
+    },
+    {
+        "id": "FAQ-003",
+        "category": "materials",
+        "question": "How should I store filament?",
+        "answer": "Keep filament in a sealed bag with desiccant packets when not in use. Moisture absorption causes bubbles, stringing, and weak prints. Signs of wet filament: popping/hissing sounds during printing, rough surface finish, excessive stringing. We sell vacuum storage bags and desiccant kits.",
+        "tags": [
+            "storage",
+            "moisture",
+            "maintenance"
+        ]
+    },
+    {
+        "id": "FAQ-004",
+        "category": "troubleshooting",
+        "question": "My print isn't sticking to the bed",
+        "answer": "Try these in order: (1) Re-level your bed using the paper test, (2) Clean the bed with isopropyl alcohol, (3) Increase bed temperature by 5°C, (4) Slow your first layer to 20mm/s, (5) Use a glue stick or hairspray for extra adhesion. We also sell PEI spring steel sheets ($15) which give excellent adhesion for all materials.",
+        "tags": [
+            "adhesion",
+            "bed",
+            "first-layer",
+            "troubleshooting"
+        ]
+    },
+    {
+        "id": "FAQ-005",
+        "category": "troubleshooting",
+        "question": "How do I unclog my nozzle?",
+        "answer": "Try a cold pull: (1) Heat nozzle to printing temp, (2) Push filament through manually, (3) Cool nozzle to 90°C (PLA) or 160°C (ABS), (4) Pull filament out firmly — it should bring debris with it. Repeat 2-3 times. If that doesn't work, use the included acupuncture needle or replace the nozzle. We sell nozzle variety packs for $18.",
+        "tags": [
+            "clog",
+            "nozzle",
+            "maintenance",
+            "troubleshooting"
+        ]
+    },
+    {
+        "id": "FAQ-006",
+        "category": "services",
+        "question": "How does your DIY printing service work?",
+        "answer": "It's simple: (1) Send us your 3D file (STL, OBJ, or 3MF), (2) We'll quote you within 24 hours, (3) Once approved, we print it in our LA factory on one of our 100 printers, (4) Pick up locally or we ship it to you. Standard turnaround is 3-5 business days. Rush and same-day options available!",
+        "tags": [
+            "service",
+            "DIY",
+            "printing",
+            "how-it-works"
+        ]
+    },
+    {
+        "id": "FAQ-007",
+        "category": "services",
+        "question": "What file formats do you accept?",
+        "answer": "We accept STL, OBJ, and 3MF files. STL is the most common. If you only have a design in another format (STEP, IGES, Fusion 360), we can convert it for a small fee. Need help designing from scratch? Book a Design Consultation ($75/hr) with our team.",
+        "tags": [
+            "files",
+            "formats",
+            "STL",
+            "service"
+        ]
+    },
+    {
+        "id": "FAQ-008",
+        "category": "shipping",
+        "question": "Do you offer free shipping?",
+        "answer": "Yes! Free local delivery in the LA area for orders over $50. For orders under $50, local delivery is $7.99. We also ship nationwide — flat rate $9.99 for orders under $50, free for orders over $100.",
+        "tags": [
+            "shipping",
+            "delivery",
+            "free",
+            "LA"
+        ]
+    },
+    {
+        "id": "FAQ-009",
+        "category": "returns",
+        "question": "What is your return policy?",
+        "answer": "30-day return policy on unopened products with free return shipping. For printers, we offer a 6-month warranty covering manufacturing defects. Opened filament and resin cannot be returned (hygroscopic materials), but we'll replace defective products — just send us a photo and order number.",
+        "tags": [
+            "returns",
+            "warranty",
+            "policy"
+        ]
+    },
+    {
+        "id": "FAQ-010",
+        "category": "general",
+        "question": "Do you have a physical store?",
+        "answer": "Yes! Our factory and showroom is located in the LA area. You can visit to see our printers in action, pick up orders, and get hands-on advice from our team. Hours: Mon–Fri 9AM–6PM, Sat 10AM–4PM. Walk-ins welcome!",
+        "tags": [
+            "store",
+            "location",
+            "LA",
+            "showroom"
+        ]
+    },
+    {
+        "id": "FAQ-011",
+        "category": "troubleshooting",
+        "question": "My resin prints keep failing",
+        "answer": "Common resin print failures: (1) Check your FEP film — if cloudy, replace it, (2) Increase bottom layer exposure time by 10-15 seconds, (3) Add more supports (especially for overhangs >45°), (4) Shake resin bottle before pouring, (5) Filter used resin through a paint strainer. If prints stick to FEP instead of build plate, re-level your build plate.",
+        "tags": [
+            "resin",
+            "failure",
+            "troubleshooting",
+            "SLA"
+        ]
+    },
+    {
+        "id": "FAQ-012",
+        "category": "safety",
+        "question": "Is 3D printing safe for kids?",
+        "answer": "FDM printing with PLA is generally safe for supervised children. PLA is non-toxic and low-odor. Safety tips: (1) Always supervise — hot end reaches 200°C+, (2) Keep fingers away from moving parts, (3) Use PLA only (avoid ABS fumes), (4) Print in a ventilated area, (5) Don't touch prints immediately after — they're hot! Resin printing is NOT recommended for children due to toxic uncured resin.",
+        "tags": [
+            "safety",
+            "kids",
+            "children",
+            "PLA"
+        ]
+    }
+]

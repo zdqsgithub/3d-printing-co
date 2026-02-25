@@ -1,0 +1,44 @@
+Company Overview
+
+A Los Angeles-based 3D printing company offering a comprehensive range of products and services, including:
+
+3D Printers — hardware sales for hobbyists, makers, and businesses
+Materials & Consumables — everything customers need to keep printing
+DIY Printing Services — powered by an in-house factory of 100 3D printers in the LA area
+
+The company is currently in a growth phase, actively focused on expanding its customer base and driving increased sales across all product and service lines.
+
+Here are 3 AI-powered solutions tailored to your 3D printing company, inspired by the agent + skills architecture of nanobot:
+
+🤖 Solution 1: AI Sales & Customer Support Agent
+What it does: Deploy a nanobot-powered agent on your website, Telegram, or WhatsApp that acts as a 24/7 sales assistant and support rep.
+Skills to build:
+
+Product Recommender Skill — Helps customers choose the right printer, filament, or material based on their project needs
+Order & Quote Skill — Instantly generates quotes for DIY printing service requests
+FAQ & Troubleshooting Skill — Answers common questions about materials, print settings, and machine issues
+
+Why it matters for growth: Captures leads and closes sales around the clock without adding headcount. Customers in the LA area can get instant responses even outside business hours.
+
+📦 Solution 2: AI Inventory & Demand Forecasting Agent
+What it does: A scheduled nanobot agent that monitors your stock levels, analyzes order history, and proactively alerts your team when to reorder materials and consumables — or when a specific product is trending.
+Skills to build:
+
+Stock Monitor Skill — Polls your inventory system at set intervals using nanobot's cron scheduler
+Trend Analysis Skill — Uses web search to detect spikes in demand for certain filament types or printer models
+Alert & Report Skill — Sends daily/weekly digest reports to your team via Telegram or WhatsApp
+
+Why it matters for growth: Prevents stockouts that cost you sales and reduces overbuying that ties up cash — especially critical when managing consumables across 100 printers.
+
+📣 Solution 3: AI Marketing & Lead Generation Agent
+What it does: An autonomous agent that continuously works to grow your online presence, find potential B2B customers, and run outreach campaigns on autopilot.
+Skills to build:
+
+Lead Discovery Skill — Uses web search to find LA-area businesses (architects, product designers, schools, medical device startups) that could benefit from 3D printing services
+Content Generation Skill — Auto-drafts weekly social media posts, email newsletters, and blog articles about your products and services
+Outreach Scheduler Skill — Using nanobot's cron feature, automatically sends personalized cold outreach emails or follow-ups at optimal times
+
+Why it matters for growth: Turns customer acquisition into a continuous, automated process rather than a manual effort — letting your team focus on fulfillment while the agent fills the pipeline.
+
+
+Getting Started: All three solutions can be built on top of nanobot (pip install nanobot-ai) using its modular skills system, with Claude as the underlying LLM via OpenRouter. Each agent can be deployed and managed through Telegram or WhatsApp, making it easy for your team to interact with them on the go.
